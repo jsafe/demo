@@ -1,1 +1,3 @@
 # demo
+
+phpinfo.php
